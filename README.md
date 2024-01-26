@@ -4,7 +4,9 @@ Embed tweets in your new or existing nextjs application using [react tweet](http
 
 ## Demo
 
-[https://next-blog-starter.vercel.app/](https://section-blog-theme-demo.vercel.app/)
+[https://688dk8-3000.csb.app](https://688dk8-3000.csb.app)
+
+[![Edit officialrajdeepsingh/react-tweet/main](https://codesandbox.io/static/img/play-codesandbox.svg)](https://codesandbox.io/p/github/officialrajdeepsingh/react-tweet/main?embed=1&file=%2Fsrc%2Fapp%2Fpage.tsx)
 
 ## How to use
 
